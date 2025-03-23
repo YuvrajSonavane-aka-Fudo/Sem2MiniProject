@@ -35,7 +35,7 @@ const AboutRegression = () => {
           <div className="flex justify-center my-6 relative">
             <div className="absolute inset-0 bg-gradient-to-r from-pink-200/20 to-purple-200/20 rounded-lg"></div>
             <img
-              src="/placeholder-regression-detail.png"
+              src=""
               alt="Regression visualization"
               className="rounded-lg relative z-10 border border-pink-200 w-[400px] h-[250px] object-cover"
             />
@@ -142,7 +142,7 @@ const AboutRegression = () => {
           <div className="flex justify-center my-6 relative">
             <div className="absolute inset-0 bg-gradient-to-r from-pink-200/20 to-purple-200/20 rounded-lg"></div>
             <img
-              src="/placeholder-process.png"
+              src=""
               alt="Regression process"
               className="rounded-lg relative z-10 border border-pink-200 w-[400px] h-[250px] object-cover"
             />
